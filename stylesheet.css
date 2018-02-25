@@ -1,0 +1,30 @@
+html {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+.label {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+ .col {
+   list-style-type: none;
+   margin-right: 1em;
+ }
+
+ .sidebar {
+   outline-style: solid;
+   text-align: center;
+ }
+
+.sidebar a {
+  text-decoration: none;
+  color: black;
+}
+
+.bubble {
+  border-radius: 75%;
+}
